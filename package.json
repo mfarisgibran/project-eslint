@@ -1,0 +1,13 @@
+{
+  "name": "project-eslint",
+  "version": "0.1.0",
+  "description": "Project ESLint",
+  "main": "index.js",
+  "repository": "https://github.com/mfarisgibran/project-eslint.git",
+  "author": "M Faris Gibran <mfarisgibran@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^7.12.1"
+  }
+}
